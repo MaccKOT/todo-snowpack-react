@@ -74,7 +74,8 @@ export const Todos = () => {
           Please add a todo!
         </p>
       )}
-      {hasTodos && (
+
+      {hasTodos && remainingTodos > 0 && (
         <p>
           [{remainingTodos} of {todosLength}] todos remaining
         </p>
