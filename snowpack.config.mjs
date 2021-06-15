@@ -7,8 +7,8 @@ export default {
   devOptions: {
     tailwindConfig: './tailwind.config.js',
   },
-  plugins: ['@snowpack/plugin-postcss'],
   plugins: [
+    '@snowpack/plugin-postcss',
     '@snowpack/plugin-react-refresh',
     '@snowpack/plugin-dotenv',
     [
