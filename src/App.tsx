@@ -1,10 +1,12 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
+import { Todos } from './Components/Todos';
 
-interface AppProps {}
-
-function App({}: AppProps) {
-  // Return the App component.
-  return <div className="bg-gray-700 text-gray-100">Hello, Snowpack App</div>;
+function App() {
+  return (
+    <div className="App h-screen flex justify-center items-center bg-gray-100">
+      <Todos />
+    </div>
+  );
 }
 
 export default App;
