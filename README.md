@@ -6,7 +6,9 @@
 
 Original [code](https://github.com/YazanAlhalabi/todos-react-ts-tailwind) by [Devs Force](https://www.youtube.com/watch?v=zx_879gAoYo)
 
-[LIVE DEMO]()
+[LIVE DEMO](https://serene-blackwell-8757dc.netlify.app)
+
+SVG icons by [Bootstrap Icons](https://icons.getbootstrap.com/)
 
 ## Available Scripts
 
