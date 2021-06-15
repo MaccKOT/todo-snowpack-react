@@ -2,6 +2,12 @@
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
+> 💜 [Tailwind CSS in JIT mode](https://www.snowpack.dev/guides/tailwind-css/)
+
+Original [code](https://github.com/YazanAlhalabi/todos-react-ts-tailwind) by [Devs Force](https://www.youtube.com/watch?v=zx_879gAoYo)
+
+[LIVE DEMO]()
+
 ## Available Scripts
 
 ### npm start

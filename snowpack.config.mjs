@@ -4,6 +4,10 @@ export default {
     public: { url: '/', static: true },
     src: { url: '/dist' },
   },
+  devOptions: {
+    tailwindConfig: './tailwind.config.js',
+  },
+  plugins: ['@snowpack/plugin-postcss'],
   plugins: [
     '@snowpack/plugin-react-refresh',
     '@snowpack/plugin-dotenv',
